@@ -1,5 +1,5 @@
 # shortstories
-Reeks kortverhalen ooit geschreven voor Kristien Hemmerechts in kader van het vak Creatief Schrijven. De opdrachten waren als volgt:
+Reeks miniaturen ooit geschreven voor Kristien Hemmerechts in kader van het vak Creatief Schrijven. De opdrachten waren als volgt:
 
 1. Beschrijf een tafereel, maak een observatie
 2. Beschrijf een persoon die je nauw aan het hart ligt
